@@ -1,6 +1,9 @@
-## bio_informatics<p float="left">
-<a> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+## bio_informatics
+
+<p float="left">
+<a> <img src="https://img.shields.io/badge/Language-Python3-blue" alt="alt text"> </a>
 <a> <img src="https://img.shields.io/badge/Language-Jupyter notebook-blue" alt="alt text"> </a>  
+<a> <img src="https://img.shields.io/badge/Language-Anaconda3-blue" alt="alt text"> </a>
 </p>
 
 ### title: 유전자 표현 모니터링을 이용한 암의 분자분류
